@@ -1,4 +1,4 @@
-## Spring boot, MYSQL, Hibernate, JPA, Spring security, Rest-API, CRUD
+## Spring boot, MYSQL, Hibernate, JPA, Spring security, Rest-API, and CRUD
 
 Build Restful web services using spring boot and MYSQL and Hibernate as well as End-points authenticate with JWT authentication.
 
