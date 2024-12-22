@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project :
 
-* The original package name 'lk.himash.employee-service' is invalid and this project uses 'lk.himash.employeeservice' instead.
+* The original package name -> 'lk.himash.employee-service' is invalid and this project uses 'lk.himash.employeeservice' instead.
 
 # Getting Started
 
